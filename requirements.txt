@@ -1,0 +1,4 @@
+# Binance Spot Testnet Trading Bot — Python dependencies
+python-binance>=1.0.19
+pandas>=2.0.0
+python-dotenv>=1.0.0
