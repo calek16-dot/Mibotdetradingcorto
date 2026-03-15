@@ -1,0 +1,19 @@
+2026-03-15 22:49:44 | INFO     | trading_bot.bot | ============================================================
+2026-03-15 22:49:44 | INFO     | trading_bot.bot | Binance Spot Testnet Trading Bot — Starting up
+2026-03-15 22:49:44 | INFO     | trading_bot.bot | Symbols : SOLUSDT, XRPUSDT, TRXUSDT
+2026-03-15 22:49:44 | INFO     | trading_bot.bot | Interval: 1h
+2026-03-15 22:49:44 | INFO     | trading_bot.bot | ============================================================
+2026-03-15 22:49:44 | CRITICAL | trading_bot.bot | Environment variables BINANCE_API_KEY and BINANCE_SECRET_KEY must be set before starting the bot.
+2026-03-15 22:50:12 | INFO     | trading_bot.order_blocks | Best OB | time=2026-03-16 06:00:00+00:00 | mid=150.500000 | sl=146.272500 | age=18 candles
+2026-03-15 22:50:12 | INFO     | trading_bot.risk_manager | Position registered | SOLUSDT | entry=150.000000 | qty=10.000000 | sl=147.750000 | tp1=153.000000 | tp2=156.000000
+2026-03-15 22:50:12 | INFO     | trading_bot.risk_manager | Order FILLED | SOLUSDT | qty=10.00000000 | entry=150.000000
+2026-03-15 22:50:12 | INFO     | trading_bot.risk_manager | TP1 HIT | SOLUSDT | price=153.000000 >= tp1=153.000000
+2026-03-15 22:50:12 | INFO     | trading_bot.risk_manager | TP1 executed | SOLUSDT | sold=5.00000000 | new_sl=150.000000 (breakeven) | remaining=5.00000000
+2026-03-15 22:50:12 | INFO     | trading_bot.risk_manager | TP2 HIT | SOLUSDT | price=156.000000 >= tp2=156.000000
+2026-03-15 22:50:12 | INFO     | trading_bot.risk_manager | TP2 executed | SOLUSDT | position CLOSED.
+2026-03-15 22:50:19 | INFO     | trading_bot.bot | ============================================================
+2026-03-15 22:50:19 | INFO     | trading_bot.bot | Binance Spot Testnet Trading Bot — Starting up
+2026-03-15 22:50:19 | INFO     | trading_bot.bot | Symbols : SOLUSDT, XRPUSDT, TRXUSDT
+2026-03-15 22:50:19 | INFO     | trading_bot.bot | Interval: 1h
+2026-03-15 22:50:19 | INFO     | trading_bot.bot | ============================================================
+2026-03-15 22:50:19 | CRITICAL | trading_bot.bot | Environment variables BINANCE_API_KEY and BINANCE_SECRET_KEY must be set before starting the bot.
